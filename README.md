@@ -29,9 +29,9 @@ TODO:
 │   ├── data_dictionary.csv
 │   ├── Wimbledon_featured_matches.csv
 ├── final_report
-│   
-├── visual image
-└── MCM-2024-Problem-C.pdf
+│   └── MCM-2024-Problem-C.pdf
+└── visual image
+
 
 ```
 
