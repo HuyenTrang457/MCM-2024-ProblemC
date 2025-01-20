@@ -19,8 +19,7 @@ TODO:
 
 
 ```text
-.
-Momentum-in-Sport
+
 ├── Code
 │   ├── Model_1_for_momentum.ipynb
 │   ├── Model_2_for_Prediction_Outcome.ipynb
@@ -30,6 +29,8 @@ Momentum-in-Sport
 │   ├── data_dictionary.csv
 │   ├── Wimbledon_featured_matches.csv
 ├── final_report
+│   
+├── visual image
 └── MCM-2024-Problem-C.pdf
 
 ```
