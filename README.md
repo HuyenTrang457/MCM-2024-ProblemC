@@ -40,10 +40,10 @@ Momentum-in-Sport
    1. Pre_processing_for_model_1.ipynb  
    2. Pre_processing_for_model_2.ipynb  
    3. Wimbledon_featured_matches.csv: The original and only dataset  
-   4. data_dictionary.csv 
+   4. data_dictionary.csv : appendix to main dataset
 
 2. `Build and Train Each Model`  
    1. Model_1_for_momentum.ipynb  
    2. Model_2_for_Prediction_Outcome.ipynb  
 
-3. `final_report`: Write the report  
+3. `Write the report` : MCM-2024-Problem-c.pdf
