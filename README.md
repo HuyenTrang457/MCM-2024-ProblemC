@@ -33,7 +33,7 @@ Momentum-in-Sport
 └── MCM-2024-Problem-C.pdf
 
 ```
-   - các file .ipynb mô tả toàn bộ quá trình thực hiện, output, và những phân tích đánh giá của toàn bộ mô hình
+
 **Process Execution**  
 
 1. `Data-Processing`: Prepare and process different datasets for each model  
